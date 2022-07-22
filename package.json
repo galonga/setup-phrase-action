@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/winify-ag/setup-phraseapp.git"
+    "url": "git+https://github.com/galonga/setup-phrase-action.git"
   },
   "keywords": [
     "GitHub",
